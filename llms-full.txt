@@ -1,0 +1,40 @@
+# Geotechnik — Moers
+
+> Geotechnical engineering services in Moers, Deutschland.
+
+## Services
+- [Anker](https://moers.geotechnik.sbs/anker/)
+- [Aushub](https://moers.geotechnik.sbs/aushub/)
+- [Bodenplatten](https://moers.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://moers.geotechnik.sbs/bodenverbesserung/)
+- [Erdbebenisolierung](https://moers.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://moers.geotechnik.sbs/flexibler-belag/)
+- [Geophysik](https://moers.geotechnik.sbs/geophysik/)
+- [Grundungen](https://moers.geotechnik.sbs/grundungen/)
+- [Hange](https://moers.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://moers.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://moers.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://moers.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://moers.geotechnik.sbs/labor/)
+- [Labor In Situ](https://moers.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://moers.geotechnik.sbs/masw/)
+- [Pfahle](https://moers.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://moers.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://moers.geotechnik.sbs/ruttelverdichtung/)
+- [Seismik](https://moers.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://moers.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://moers.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://moers.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://moers.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://moers.geotechnik.sbs/strassenbau/)
+- [Triaxialversuch](https://moers.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://moers.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://moers.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://moers.geotechnik.sbs/weichbodentunnel/)
+
+## Contact
+- Website: https://moers.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Moers, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
